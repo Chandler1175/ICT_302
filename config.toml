@@ -1,7 +1,7 @@
 baseURL = "https://vibrant-williams-d83705.netlify.app/"
 languageCode = "en-us"
 title = "Group 2 Site"
-theme = "ananke"
+theme = "hugo_book"
 
 [build]
 publish = "public"
