@@ -1,6 +1,6 @@
 baseURL = "https://vibrant-williams-d83705.netlify.app/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Group 2 Site"
 theme = "ananke"
 
 [build]
