@@ -4,4 +4,4 @@ date: 2021-09-02T00:00:00-04:00
 draft: false
 ---
 
-This is a sample post. You can copy the text of this post to create new posts for your weekly personal and group reports. Pay close attention to the format of the text in this file—changing it too drastically will cause the post to not show up.
+During this week I have learned that content goes through an editoral process. The editoral process is from ideas, preparation, creation, the final evalution, to being published. Another thing that I learned was the human factor. I found it really cool how twitter bots throw together phrases and then throws it out which is content. Another thing that I learned is to be aware of what the tools on your computer are doing and to always stay in control. 
