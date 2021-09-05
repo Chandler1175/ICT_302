@@ -1,6 +1,6 @@
 ---
-title: "Taylor's Week 2 Post"
-date: 2020-08-12T00:00:00-04:00
+title: "Taylor's Module 2 Report"
+date: 2020-09-5T00:00:00-04:00
 draft: false
 ---
 
