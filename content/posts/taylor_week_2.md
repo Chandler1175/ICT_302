@@ -1,6 +1,6 @@
 ---
 title: "Taylor's Module 2 Report"
-date: 2020-09-5T00:00:00-04:00
+date: 2020-09-05 T00:00:00-04:00
 draft: false
 ---
 
