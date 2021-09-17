@@ -10,11 +10,11 @@ Role: Developer
 
 What an A looks like
     a) Getting all the plugins working
-	  b) Getting all the content applied to the website
-		c) Work with site planner to make the theme
-		d) Communicate well with the group and incorporate group ideas into the website.
-		e) Convert any information to code if needed(wordpress will probably handle all of that)
-		f) Work well with Ethan, my fellow developer and do my share of the work. 
+    b) Getting all the content applied to the website
+    c) Work with site planner to make the theme
+    d) Communicate well with the group and incorporate group ideas into the website.
+    e) Convert any information to code if needed(wordpress will probably handle all of that)
+    f) Work well with Ethan, my fellow developer and do my share of the work. 
 
 What a B looks like
     a) I do most of the plugins
