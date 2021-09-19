@@ -5,5 +5,5 @@ draft: false
 ---
 
 
-[link to pdf](https://vibrant-williams-d83705.netlify.app/Taylor's Personal Contract.pdf)
+[link to pdf](https://vibrant-williams-d83705.netlify.app/taylorpersonalcontract.pdf)
 
