@@ -4,4 +4,4 @@ date: 2020-09-19T00:00:00-04:00
 draft: false
 ---
 
-link to pdf (https://vibrant-williams-d83705.netlify.app/ethanpersonalcontact.pdf)
+link to pdf (file:///C:/Users/Owner/Downloads/ethanpersonalcontract.pdf)
