@@ -1,8 +1,9 @@
-
+---
 title: "Taylor's Personal Contract for Word-Press Website Project"
-date: 2021-09-19T00:00:00-04:00
+date: 2021-09-18T00:00:00-04:00
 draft: false
 ---
 
 
-[link to pdf](https://vibrant-williams-d83705.netlify.app/file:///Users/taylorworthington/Downloads/Taylor's%20Personal%20Contract.pdf)
+[link to pdf](https://vibrant-williams-d83705.netlify.app/Taylor's Personal Contract.pdf)
+
