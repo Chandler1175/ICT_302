@@ -1,5 +1,5 @@
 ---
-title: "Group Contract for Word-Press Website Project"
+title: "Group Contract for WordPress Website Project"
 date: 2021-09-10T00:00:00-04:00
 draft: false
 ---
