@@ -3,23 +3,6 @@ languageCode = "en-us"
 title = "Group 2 Site"
 theme = "ananke"
 
-[menu]
-[[main.menu]]
-name = "Shop"
-weight = 1
-url = "/posts/ethan_week_4/"
-
-[[main.menu]]
-name = "Menu"
-weight = 1
-url = "/posts/ethan_week_4/"
-
-[[main.menu]]
-name = "About Us"
-weight = 1
-url = "/posts/ethan_week_4/"
-
-
 [build]
 publish = "public"
 command = "hugo --gc --minify"
@@ -51,3 +34,18 @@ HUGO_VERSION = "0.74.3"
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
 
+[menu]
+[[menu.main]]
+name = "Shop"
+weight = 1
+url = "/About"
+
+[[menu.main]]
+name = "Menu"
+weight = 1
+url = "/Shop"
+
+[[menu.main]]
+name = "About Us"
+weight = 1
+url = "/Test"
