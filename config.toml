@@ -3,6 +3,16 @@ languageCode = "en-us"
 title = "Group 2 Site"
 theme = "ananke"
 
+[menu]
+[[main.menu]]
+identifier = 'coffee shop'
+name = 'Wildcat Cafe'
+title = 'coffee section'
+url = '/"https://vibrant-williams-d83705.netlify.app/'
+weight = -110
+
+
+
 [build]
 publish = "public"
 command = "hugo --gc --minify"
