@@ -5,12 +5,16 @@ theme = "ananke"
 
 [menu]
 [[main.menu]]
-identifier = 'coffee shop'
-name = 'Wildcat Cafe'
-title = 'coffee section'
-url = '/"https://vibrant-williams-d83705.netlify.app/'
-weight = -110
+name = "Shop"
+weight = 1
 
+[[main.menu]]
+name = "Menu"
+weight = 1
+
+[[main.menu]]
+name = 'About Us'
+weight = 1
 
 
 [build]
