@@ -1,6 +1,6 @@
 ---
 title: "Taylor's Module 6 Report"
-date: 2021-10-04T00:00:00-04:00
+date: 2021-10-03T00:00:00-04:00
 draft: false
 ---
 
