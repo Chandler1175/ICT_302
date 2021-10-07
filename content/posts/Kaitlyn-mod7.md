@@ -1,6 +1,6 @@
 ---
-title: "Group Report Module 6"
-date: 2021-10-03T00:00:00-04:00
+title: "Kaitlyn's Module 7 Personal Report"
+date: 2021-10-06T00:00:00-04:00
 draft: false
 ---
 
