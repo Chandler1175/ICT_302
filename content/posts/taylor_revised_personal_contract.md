@@ -1,5 +1,5 @@
 ---
-title: "Revised Group Contract for WordPress Website Project"
+title: "Taylor's Revised Personal Contract for WordPress Website Project"
 date: 2021-10-29T00:00:00-04:00
 draft: false
 ---
