@@ -1,5 +1,5 @@
 ---
-title: "Chandler's Revised Personal Contract"
+title: "Chandler's Revised PersonalContract"
 date: 2020-10-31T00:00:00-04:00
 draft: false
 ---
