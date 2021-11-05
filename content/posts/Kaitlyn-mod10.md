@@ -1,5 +1,5 @@
 ---
-title: "Kaitlyn's Module 10 Personal Report"
+title: "Kaitlyn's Module 11 Personal Report"
 date: 2021-11-04T00:00:00-04:00
 draft: false
 ---
