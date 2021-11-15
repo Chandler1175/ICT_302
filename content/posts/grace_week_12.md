@@ -6,3 +6,4 @@ draft: false
 
 This week, "I can manage content using an established workflow." I can do this because our team has been working together on creating content for the website. We each all have our own roles on what to do. I have been trying to figure out how to get the header photo to work and what pictures to put on each page. 
 
+
